@@ -1,0 +1,74 @@
+ 1 are html tag and element the same thing?
+-html tags are used to hold the html element and an element is between from star tags to end tags
+
+2what are the tags and attribute in html?
+-An html tag is peice of language used to indicate the begaing and end of html element
+-an html attribute are used to describe the characteristic of an html element in detail. 
+3what are void element in html?
+-void element is an element whose content model never allows it to have content under any circumference.
+
+4what are html entities?
+-html entities is reserved characteristic in html must be replace with characteristic with entities and number.
+
+5what are different type of list in html?
+-there are three type list in html
+Unordered list or bullet list(ul)
+orederl list or number list(ol)
+Description list or definition list(dl)
+
+6what is class attribute in html?
+-the html class attribute specifies one or more class name for an element.cclss is used by css and javascript to select and access specific element.
+
+7what are difference  between the id  attribute and the class attribute of html element?
+-the only difference between them is that “id” is unique in page and can only apply to at most one element, while “class” selector can apply to multiple element.
+8what are the various formatting tags in html?
+-<b> bold text
+ <strong>
+ <I> italic text
+<em> emphasise text
+<mark>mark text
+<small>smaller text
+<del>deleted text
+<ins>inserted text
+9how is cell padding different from cell spacing?
+-celllpadding:cellpading basically define the space present between a table cells border and  the content present in it.
+Cellspacing: cellspacing basically define the space adjacent cell
+10how can we club two or more row or more row or column into single row or column in html table?
+by using rowspan-an and colspan
+
+11what is difference between a block-level element and inline element?
+-inline element never start a new line.
+Block element cover space from left to right as far as it can go. 
+Inline element only cover the space as bounded by the tags in html.
+
+12how to create hyperlink in html?
+-use <a> tag
+Use href attribute to define link address
+Use target attribute where to ope page
+
+13what is use of I frame tag?
+-I fram is used to display a web page within a web page.
+
+14what is use of a span tag?explain with example?
+span tag is used as generating container of inline element.
+<p> we<span><b> have some text</b></span><p>
+15how to insert a picture into background image of a web page?
+-under the css <style > tag property, add backgrounds  image.
+
+16how are active link different from normal link?
+-normal link are the link which are  there on page and have not been clicked yet.
+Active link are those link, which have just been clicked at that instant.
+
+17what are the different tags to separate section of  text?
+-<br>
+<p>
+<blockquote>
+
+18what is svg?
+-svg is file format is popular tool for displaying two dimensional graphics.
+
+19what is difference between html and xhtml?
+-html is the standard markup language for creating web page ,while xhtml is a stricter and more standardised version of html.
+
+20what are the logical and physical tags in html?
+-Physical and Logical tags are used in HTML for better visibility and understanding of the text by the user on the web page. However, both tags differ from each other as suggested by their names. Logical Tags : Logical Tags are used in HTML to display the text according to the logical styles.
