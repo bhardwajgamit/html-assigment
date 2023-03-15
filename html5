@@ -1,0 +1,17 @@
+<1> What are the tags add in html 5?
+-audio,canvas,figurecaption,footer,header,embed,nav,output,math
+<2>how to embed audio and video embed in webpage?
+-<audio controls>
+<sourc src=“” type=“audio/mp3”>
+</audio>
+-<video height=“”width=“”controls>
+<sourc src=“” type=“video/mp4”>
+</video>
+
+<3>semantic element in html5?
+-semantic element is clearly describe it meaning to both the browser and developer.
+Non semantic element:div and span tell nothing about content.
+Semantic element:form, table,article- clearly define its content.
+<4>canvas and svg tag?
+-canvas element is used to draw graphics.
+-scalable vector graphics is used to define graphics for web.
