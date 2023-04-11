@@ -1,0 +1,62 @@
+What are the benefits of using css?
+-by using css you simply got to specify repeated a style for element & use it multiple time as because css will automatically apply the require style
+What are the disadvantage of css?
+-confusion due to many css version
+-cross browser issue
+-limite securities
+What is the difference between css2 and css3?
+Css2
+-Css spilt up different section of the code into module
+-there are new way to write css rule with bunch of selector
+-with css2 only web safe can be used
+Css3
+-both css3 and html put in a single file
+-there ware no new way to write css rule
+-with css3 special font can used such as google font
+
+Name a few css style component?
+-at it most basic level css consist two component-
+-Property:
+-these are human readable identifier that indicate which stylistic  feature you want to modify
+Ex font size, width
+Value:
+-each property assign with value
+-value indicate how to style property
+
+What do you understand by css opacity?
+-  Opacity is the degree to which content behind an element is hidden, and is the opposite of transparency.
+How can the background colour of an element be change?
+-To add background color in HTML, use the CSS background-color property. Set it to the color name or code you want and place it inside a style attribute. Then add this style attribute to an HTML element, like a table, heading, div, or span tag.
+How can image repetition of backup be controlled?
+-To control the repetition of an image in the background, use the background-repeat property. You can use no-repeat value for the background-repeat property if you do not want to repeat an image, in this case, the image will display only once.
+What is use of background-postion property?
+-The background-position property sets the starting position of a background image.
+Which property controls the image scroll in the background ?
+-The background-attachment property sets whether a background image scrolls with the rest of the page, or is fixed.
+Why should background colour be used as seperete properties?
+-There are two reasons behind this: It enhances the legibility of style sheets. The background property is a complex property in CSS, and if it is combined with color, the complexity will further increase.
+How to centre block element using css1?
+-With css the way to center anything that's a block level element is with the margin property. One of the values of margin is auto and by setting auto on the left and right margin our block level element will center itself.
+How to maintain the css specification?
+-This page contains descriptions of all specifications that the CSS WG is working on. See the ‘current work’ page for a compact view and how to give feedback.
+What are the ways to integrate css as webpage?
+-use Inline CSS in a style attribute. By adding CSS to the head section of our HTML document, we can embed an internal stylesheet. We can also connect to an external stylesheet that separates our CSS from our HTML
+What is embedded style sheets?
+-An embedded style sheet is declared within the <head> element of an XHTML document. It applies to the whole document, rather than just one element. Each style declaration (or CSS rule) gets applied to everything in the document that matches that rule.
+What are the external style sheets?
+-An external style sheet is a separate CSS file that can be accessed by creating a link within the head section of the webpage. Multiple webpages can use the same link to access the stylesheet. The link to an external style sheet is placed within the head section of the page.
+What are the advantage and disadvantage of using external style sheets?
+-The advantages of External Style Sheets are as follows :
+With the help of External Style Sheets, the styles of numerous documents can be organized from one single file.
+In External Style Sheets, Classes can be made for use on numerous HTML element types in many forms of the site.
+In complex contexts, Methods like selector and grouping can be implemented to apply styles.
+
+The disadvantages of External Style Sheets are as follows :
+An extra download is essential to import style information for each file.
+The execution of the file may be deferred till the external style sheet is loaded.
+While implementing style sheets, we need to test Web pages with multiple browsers in order to check compatibility issues.
+
+What is meaning of the css selector?
+-A CSS selector is the first part of a CSS Rule. It is a pattern of elements and other terms that tell the browser which HTML elements should be selected to have the CSS property values inside the rule applied to them.What are the media type allows by css?
+What is rule set?
+- A table of instructions used by a controlled interface to determine what data is allowable and how the data is handled between interconnected systems.
