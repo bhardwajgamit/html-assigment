@@ -1,0 +1,13 @@
+What is jQuery? 
+The purpose of jQuery is to make it much easier to use JavaScript on your website.
+
+ How to Apply CSS Using JQuery, How to Add Class and Remove Class in Jquery , JQuery Animation?
+css(“propertyname","value");
+addClass() - Adds one or more classes to the selected elements.
+removeClass() - Removes one or more classes from the selected elements.
+toggleClass() - Toggles between adding/removing classes from the selected elements.
+css() - Sets or returns the style attribute.
+
+  How to create slider with animation? 
+$(selector).animate({params}, speed, callback);  
+
