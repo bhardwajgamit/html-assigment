@@ -1,0 +1,106 @@
+ootstrap
+
+Q1:- What are the advantages of Bootstrap? 
+Ans:- 
+Nowadays people are accepting mobile phones rapidly and so technology is taking place to replace the desktops into handheld devices. And with there is a growth in the demand for mobile application development and web development. And to fulfill the growing demand of development bootstrap framework is a leading pack of innovation. As we all know bootstrap is a front-end web designing technology using HTML, CSS and JavaScript etc. It's an open source technology which helps and allow websites and applications to be responsive across various devices.
+
+Following are the advantages of Bootstrap Framework in development:
+Bootstrap is Easy to Use: Bootstrap is very easy and quite simple to use for designing and development. Being a new framework there is a lot to learn from it. It can be used with CSS, LESS or SaaS etc.
+
+An Alliance is Quite Easy: 
+Bootstrap is a framework which is easily integrated 	with bulk frameworks uninterrupted with existing sites or the new one.
+
+Fast and Time-Saving Framework: 
+Bootstrap is an agile framework which is quite faster than other frameworks. It saves time due to its standard ready-made coding blocks, responsiveness, and cross-browser capabilities.
+
+Reinforcement of Grids: 
+One more recommendable feature is that bootstrap holds 12 column grid styles and supports responsiveness, counterbalance, and embedded elements.
+
+Adhere to Basics: 
+Bootstrap is a framework which holds base styling HTML elements like, tables, typography, buttons, forms, images, lists, and icons etc.
+
+A Pack of JavaScript Fundamentals: 
+Bootstrap supports Javascript Components so one don't require knowledge of scripting. It comprises JavaScript components like, tooltips, modal windows, alerts etc. to add functionalities easily.
+
+Support is Amazing: 
+Bootstrap is well-known for its big support community and agile response or online solution for the problems or queries. It also offers a great documentation along with examples and demo. It provides solutions to freshers and veterans alike.
+Bootstrap is totally Customizable:
+ It is developer friendly and can be customized as per the project requirements. Common CSS, utilities, Javascript Components, and components can compose the appearance to create ease for developers.
+
+Agile Responsive: 
+Bootstrap is a fully responsive platform supporting fluid grid layout. It crafts a mobile ready site smoothly and easily and sets web design as per the dimensions of the particular device.
+
+Bootstrap's Consistency: 
+Websites or mobile applications made with bootstrap technology can make you feel the awesome pairing of developers and designers ensuring consistency.
+
+Frequent Updates: 
+It provides regular updates and makes the whole eco-system hefty and robust according to the time.
+
+
+So, this is a framework which grants the responsive and rapid development 	which is consistent and fully and well supported. So, if you're looking for 	a web development company in Gurgaon which concentrate on bootstrap 	framework based website then, Xelium Technologies is your one-stop 	solution.
+
+
+Q2:- What is a Bootstrap Container, and how does it work?
+Ans:-
+In Bootstrap, container is used to set the content's margins dealing with the responsive behaviors of your layout. It contains the row elements and the row elements are the container of columns (known as grid system).
+The container class is used to create boxed content.
+There are two container classes in Bootstrap:
+container
+container-fluid
+
+
+Q3:-What are the default Bootstrap text settings?
+Ans:-
+Bootstrap 4 uses a default font-size of 16px, and its line-height is 1.5. The default font-family is "Helvetica Neue", Helvetica, Arial, sans-serif. In addition, all <p> elements have margin-top: 0 and margin-bottom: 1rem (16px by default).
+  
+
+
+
+Q4:-What do you know about the Bootstrap Grid System?
+Ans:-
+Bootstrap's grid system uses a series of containers, rows, and columns to layout and align content. It's built with flexbox and is fully responsive. Below is an example and an in-depth look at how the grid comes together. 
+
+Q5:-What is the difference between Bootstrap 4 and Bootstrap 5
+Ans:-
+Bootstrap 4 uses Jekyll software. Bootstrap 5 uses Hugo software as it is fast static site generator. this makes easier to implement vertical designs, and the columns and rows can easily be implemented. the classes justify-center-content can directly be used to align according to the requirement.
+
+Q6:- What is a Button Group, and what is the class for a basic Button Group? 
+Ans:-
+“Button Groups” in Bootstrap is a class of name “btn-group” which is used to create a series of buttons in groups (without spaces) vertically or horizontally. Syntax: This is the basic syntax of the button group class where each button has its own class of “btn”
+
+Q7:- How can you use Bootstrap to make thumbnails?
+Ans:- 
+A lot of sites need a way to lay out images, videos, text, etc, in a grid, and Bootstrap has an easy way to do this with thumbnails. To create thumbnails using Bootstrap −
+
+Add an <a> tag with the class of .thumbnail around an image.
+
+
+This adds four pixels of padding and a gray border.
+
+
+On hover, an animated glow outlines the image.
+
+
+Q8:- In Bootstrap 4, what is flexbox?
+Ans:- 
+Flexbox. The biggest difference between Bootstrap 3 and Bootstrap 4 is that Bootstrap 4 now uses flexbox, instead of floats, to handle the layout. The Flexible Box Layout Module, makes it easier to design flexible responsive layout structure without using float or positioning.
+
+
+
+
+Q9:- How can one create an alert in Bootstrap? 
+Ans:-
+Bootstrap Alerts are used to provide an easy way to create predefined alert messages. Alert adds a style to your messages to make it more appealing to the users.
+
+There are four classes that are used within <div> element for alerts.
+.alert-success
+.alert-info
+.alert-warning
+.alert-danger
+
+
+
+
+Q10:- What is a bootstrap card and how would you create one?
+Ans:-
+In its simplest form, a Bootstrap card is a . card class with the . card-body class nested inside. This creates a card with a rounded border inside which you can place text, images, links, and other Bootstrap elements
